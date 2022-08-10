@@ -6,6 +6,8 @@
 <img src="https://i.gifer.com/3odR.gif" width="40" height="40" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sssmashedtomato&label=Profile%20views&color=0e75b6&style=flat" alt="sssmashedtomato" /> </p>
+<img src="https://i.gifer.com/3odR.gif" width="40" height="40" />
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif">
 
 - 🌱 I’m currently learning **Node.js**
 
