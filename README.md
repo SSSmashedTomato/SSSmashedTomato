@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vitor Viana</h1>
 <h3 align="center">Mobile Developer who loves to learn</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif">
-
-<img src="https://i.gifer.com/3odR.gif" width="40" height="40" />
+![coding](https://user-images.githubusercontent.com/71882720/184003058-7ea51b43-8ee7-4891-a13d-6ad5bc26c2b2.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sssmashedtomato&label=Profile%20views&color=0e75b6&style=flat" alt="sssmashedtomato" /> </p>
-<img src="https://i.gifer.com/3odR.gif" width="40" height="40" />
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif">
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -17,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/leon vitor viana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leon vitor viana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leon-vitor-viana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leon vitor viana" height="30" width="40" /></a>
 <a href="https://instagram.com/viana_vitor98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viana_vitor98" height="30" width="40" /></a>
 </p>
 
