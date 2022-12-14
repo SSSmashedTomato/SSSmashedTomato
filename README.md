@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sssmashedtomato&label=Profile%20views&color=0e75b6&style=flat" alt="sssmashedtomato" /> </p>
 
+- 🌱  **Flutter** Mid-Level developer
+
 - 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://sssmashedtomato.github.io/SSSmashedTomatos/](https://sssmashedtomato.github.io/SSSmashedTomatos/)
