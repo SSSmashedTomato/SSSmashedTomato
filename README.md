@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sssmashedtomato.github.io/SSSmashedTomatos/](https://sssmashedtomato.github.io/SSSmashedTomatos/)
 
-- 📫 How to reach me **leon.vitor@hotmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/leon-vitor-viana/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
